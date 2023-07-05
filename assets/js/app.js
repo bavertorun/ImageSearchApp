@@ -5,7 +5,7 @@
  *  
  */
 // https://unsplash.com/developers Api Key
-const accessKey = "PGwBBupi__vSNuvJfBOBUnrFxb3h21ruvxtXe1Q71BE"
+const accessKey = "YOUR_APİ_KEY"
 
 const formEl = document.querySelector("form")
 const inputEl = document.querySelector("#search-input")
